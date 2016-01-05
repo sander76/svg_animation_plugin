@@ -44,7 +44,7 @@ inside the ```<head>``` tag.
 In the ```config.yaml``` file enter:
 ```yaml
 markdown_extensions:
-  - pvman
+  - md_svg_animation_plugin
   
 extra_javascript:
   - "js/snap.svg-min.js"
